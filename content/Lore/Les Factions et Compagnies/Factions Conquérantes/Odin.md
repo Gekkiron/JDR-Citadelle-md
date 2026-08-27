@@ -14,13 +14,13 @@ Son [[Chef de Faction]], surnommé Odin, n’est connu officiellement que du Cap
 
 Depuis [[L Expedition doree|L’Expédition dorée]], le Capitaine de la [[Faction]] d’Odin est le premier béni à avoir atteint le [[Rang]] 7. Il a permit également à sa [[Faction]] d’être les premiers, hors [[Expedition|Expédition]], à avoir atteint le niveau -50 de [[La Breche|La Brèche]].
 
-La [[Faction]], malgré ou du aux caprices d’Odin, est vue comme un électron libre pouvant au nom de la Justice agir comme bon leur semble. De ce fait, elle est à la fois crainte et respecté, même si la majeure partie des [[Mortel]]s vivants dans [[La Citadelle]] les admire car jusqu’à maintenant, aucune de leurs actions n’a nuit à un non criminel.
+La [[Faction]], malgré ou dut aux caprices d’Odin, est vue comme un électron libre pouvant au nom de la Justice agir comme bon leur semble. De ce fait, elle est à la fois crainte et respecté, même si la majeure partie des [[Mortel]]s vivants dans [[La Citadelle]] les admire car jusqu’à maintenant, aucune de leurs actions n’a nuit à un non criminel.
 
 # Les caprices d’Odin
 
 Odin n’a beau ne pas être identifiable, son influence et ses décisions sont connus de tous. Parmi toutes les décisions qu’à put prendre ce [[Chef de Faction]], certaines ont été jugé comme totalement inattendu, imprévisible ou encore se rapprochant de la folie. Cette réputation a donné lieu à une appellation : ***Les caprices d’Odin***.
 
-Interprétation une collaboration commerciale établi depuis des décennies sans aucun signe avant-coureur, déclencher une [[Guerre de Faction]] sans crier garde ou bien racheter tout les boutiques d’une rue commerçante ; personne ne peut prévoir sa prochaine décision.
+Interrompre une collaboration commerciale établie depuis des décennies sans aucun signe avant-coureur, déclencher une [[Guerre de Faction]] sans crier garde ou bien racheter tout les boutiques d’une rue commerçante ; personne ne peut prévoir sa prochaine décision.
 Parmi ses caprices, il y en a deux qui encore aujourd’hui font échos : 
 - La [[Faction]] d’Odin a directement attaqué les installations de [[La Milice Protectrice]] à travers toute la [[La Citadelle]] pour prouver leur implication dans des trafics d’[[Enfants des rues]] (plus de détails dans :  [[La corruption de la milice Protectrice]])
 - La création de l’orphelinat d’Odin qui créa beaucoup de problème économique auprès des [[Faction]]s Pacifiques. (Plus de détails dans : [[Enfants des rues]]).

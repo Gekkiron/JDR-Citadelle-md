@@ -6,7 +6,7 @@ Morphologiquement, les Nains étaient petits avec une morphologie athlétique. L
 
 De plus, ils étaient connus à travers tous les Royaumes pour leur fameuse **liqueur des Nains** qu’ils sortaient à la moindre occasion : célébré une vente, un accord, une création, un évènement, rendre hommage aux défunts, etc…
 
-Pour développer leur [[Races|race]], les Nains ont décidés de faire de la création et le commerce lors principaux atouts. Se faisant : 
+Pour développer leur [[Races|race]], les Nains ont décidé de faire de la création et du commerce lors principaux atouts. Se faisant : 
 - une partie des Nains avaient la charge de récupérer un maximum de ressources dans les montagnes
 - une autre de les transformer et de les vendre dans leurs villes dans les plaines
 - une autre parcourant les autres Royaumes pour faire la promotion du savoir-faire des Nains tout en vendant quelques articles.
@@ -50,7 +50,7 @@ Anciennement désigné comme les Nains voyageurs (avec des artisans), les [[Nain
 
 Les [[Nain des Montagnes]] sont la seule [[Races|race]] avec laquelle les [[Nain des Plaines]] ont des réticences à commercer.
 
-Au fil du temps et des voyages en continue, leurs physiques s’affinèrent pour leur donner un physique comparable à un enfant humain.
+Au fil du temps et des voyages en continue, leurs physiques s’affinèrent pour leur donner un physique comparable à des jeunes adolescents humains. 
 
 ## Les Nains des Montagnes
 

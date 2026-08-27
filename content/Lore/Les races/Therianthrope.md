@@ -5,12 +5,13 @@ aliases:
   - Thérianthropes
 ---
 Appelé également homme-bête, un Thérianthrope est un être humanoïde ayant des traits à la fois d’humain, et à la fois d’animal.
+
 **A noter :** Malgré le fait qu’il a des traits humains, un Thérianthrope n’a pas de lien génétique avec les [[Humain]]s.
 
 Un Thérianthrope a une hybridation, autrement dit, une partie animale. Elle peut être hérité d’un de ses parents, soit un mélange de celle de ses parents.
 
 Les Thérianthropes sont la [[Races|Race]] la plus discriminée du monde. La principale raison est dut au lien avec les [[Monstre]]s que certains voient :
-- Leur apparence -> étant partiellement animal, beaucoup font un rapprochement avec les [[Monstre]]s qui peuvent également avoir une génétique partielle animale.
+- Leur apparence -> étant partiellement animal, beaucoup font un rapprochement avec les [[Monstre]]s qui peuvent également avoir une génétique partiellement animale.
 - La Bestialisation -> plus de détails ci-bas mais le fait que les Thérianthropes peuvent perdre le contrôle et commettre des destructions et des meurtres renforcent cette idée d’être plus proche des [[Monstre]]s que des [[Mortel]]s dans la tête de certain.
 
 # Leur place dans le monde

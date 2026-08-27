@@ -7,7 +7,7 @@ De ce fait, deux individus ayant la même [[Magie]] peut l’utiliser d’une ma
 C’est par cette appellation qu’on appelle le résultat d’un désir.
 Limité à 3 par [[Magie]], elle voit son efficacité fluctuer suivant la caractéristique d’Efficacité Magique de la [[Benediction|Bénédiction]] et de la [[Purete Magique|Pureté Magique]] du béni.
 
-Elle peut plus ou moins être flexible suivant la nature du sort et de la caractéristique de Dextérité.
+Elle peut plus ou moins être flexible suivant la nature du sort et de la caractéristique de Dextérité. 
 
 # Sort dérivé
 

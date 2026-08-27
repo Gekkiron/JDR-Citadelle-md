@@ -8,6 +8,7 @@ La vente d’une création est uniquement à l’appréciation de l’artisan. S
 # Leur place dans le monde
 
 Les Nains des Montagnes sont beaucoup présent aux [[Les Aiguilles du Ciel|Aiguilles du Ciel]]. Avec [[La reconquete du Cercle Exterieur du nord|La reconquête du Cercle Extérieur du nord]], les Nains des Montagnes se sont mit à migrer dans quelques [[Avant-Poste]]s du [[Cercle interieur|Cercle intérieur]] et surtout, dans [[La Citadelle]].
+
 Il n’est pas rare de croiser des Nains des Montagnes dans des [[Faction]]s ; que ce soit celle du [[Divins#Le Divin Conquérant|Divin Conquérant]], de la [[Divins#La Divine Pacifique|Divine Pacifique]] ou bien de la [[Divins#La Divine Vagabonde (anciennement Divine du Sud)|Divine Vagabonde]], ce peuple s’avère être de très bon éléments que ce soit au combat ou derrière un atelier.
 
 # Les prédispositions de la Race

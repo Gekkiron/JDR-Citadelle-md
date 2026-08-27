@@ -3,12 +3,12 @@ Cependant tout changea quand les premiers [[Monstre]]s apparurent. Les [[Mortel]
 
 Quand les [[Divins]] apparurent et avec eux les [[Benediction|Bénédictions]], les [[Mortel]]s réussirent à reprendre progressivement la majorité de leur territoire en commençant par le [[Cercle interieur|Cercle intérieur]], puis le [[Cercle exterieur|Cercle extérieur]].
 
-Il n’y avait cependant plus de ville ou de village. Étant donné qu’une [[Faille]] peut apparaître à tout moment et n’importe où, une nouvelle configuration prirent leur place : **L’avant-Poste**.
+Il n’y avait cependant plus de ville ou de village. Étant donné qu’une [[Faille]] peut apparaître à tout moment et n’importe où, une nouvelle configuration prirent leur place : **L’Avant-Poste**.
 Un **Avant-Poste** est dans les fait un village fortifié, de plus ou moins grande envergure, se distinguant par deux éléments :
 - des bâtiments surélevés pour qu’une [[Faille]] n’apparaisse pas en détruisant des infrastructures 
 - Des [[Orbe#Orbe de communication|Orbes de communication]] qui permettent de contacter [[La Citadelle]] et/ou les Avant-Postes les plus proches.
 
-Chaque Avant-Poste est désigné par un nom se basant sur sa localisation par rapport à [[La Citadelle]]. Ils peuvent porter un autre nom, comme [[Liberia|Libéria]], mais chacun possède à nom officiel :
+Chaque Avant-Poste est désigné par un nom se basant sur sa localisation par rapport à [[La Citadelle]]. Ils peuvent porter un autre nom, comme [[Liberia|Libéria]], mais chacun possède un nom officiel :
 - Intérieur ou Extérieur -> pour le [[Cercle interieur|Cercle intérieur]] ou le [[Cercle exterieur|Cercle extérieur]]
 - Direction cardinale -> exemples : nord | nord est | nord nord est
 - Un numéro -> pour différencier ceux ayant les mêmes caractéristiques 

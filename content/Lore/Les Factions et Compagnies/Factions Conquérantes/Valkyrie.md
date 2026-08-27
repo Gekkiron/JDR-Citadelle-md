@@ -14,7 +14,7 @@ L’activité des Valkyries est centrée sur l’exploration de [[La Breche|La B
 Durant des décennies, beaucoup d’aventurière des Valkyries ont été reconnu à travers tout le monde.
 Le pic de leur renommé a été lors de **l’ère dorée**. Durant cette période, la capitaine des Valkyries et la capitaine des [[Helios]] étaient amie d’enfance, sœur d’armes et surtout rivale. Les deux [[Amazone]]s se sont livrés durant des années des [[Guerre de Faction]] juste pour le plaisir de s’affronter. Malheureusement pour les Valkyries, elles perdirent de plus en plus et le [[Rang]] de la capitaine des [[Helios]] décolla.
 
-Quand [[L Expedition doree|L’Expédition dorée]] commença à s’organisa, la capitaine qui était bloqué au [[Rang]] 6 depuis un moment décida que si elle voulait ne pas se laisser distancer par sa rivale, elle devait passer au [[Rang]] suivant.
+Quand [[L Expedition doree|L’Expédition dorée]] commença à s’organisa, la capitaine qui était bloqué au [[Rang]] 6 depuis un moment décida de ne pas se laisser distancer par sa rivale, et pour ça, elle devait passer au [[Rang]] suivant.
 Pour se faire, elle décida d’aller, avec les plus grandes aventurières de sa [[Faction]], confronter un maximum de [[Monstre#Les Monstres Gardiens|Monstre Gardien]] afin que tout le monde puisse se renforcer. Durant des semaines, elles combattirent sans relâche. La capitaine était proche de son but. 
 
 Elle décida de confronter un autre [[Monstre#Les Monstres Gardiens|Monstre Gardien]] : celui du niveau -49 de [[La Breche|La Brèche]].

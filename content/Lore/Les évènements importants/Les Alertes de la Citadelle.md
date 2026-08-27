@@ -1,4 +1,4 @@
-Une Alerte de la Citadelle ne peut être déclenché que par [[La Guilde]] ou [[La Milice Protectrice]].
+Une Alerte de la Citadelle ne peut être déclenchée que par [[La Guilde]] ou [[La Milice Protectrice]].
 ***Les Sirènes de la Citadelle*** sont disséminées dans toute [[La Citadelle]] afin que tout le monde présent dedans puisse l’entendre.
 
 Il existe plusieurs types d’alerte, chacune ayant sa signification et des actions de tout le monde qui en découle.

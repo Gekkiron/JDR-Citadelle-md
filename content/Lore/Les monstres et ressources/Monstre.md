@@ -33,10 +33,10 @@ Attention : les monstres purgés ne sont pas des alliés. Ils ne sont plus poss�
 
 # Les familiers
 
-Les familiers sont une catégorie de monstre particulier. Le pré-requis est qu’il s’agit d’un monstre purgé. Seul un [[Sort]] permet de faire d’un monstre le familier d’un béni : « Monster Benediction » ; ce sort est donc extrêmement prisé. Évidement, ce dernier peut être contenu dans une [[Orbe]] afin que théoriquement tout le monde est une chance d’obtenir un familier. 
+Les familiers sont une catégorie de monstre particulier. Le pré-requis est qu’il s’agit d’un monstre purgé. Seul un [[Sort]] permet de faire d’un monstre le familier d’un béni : « Benediction de Monstre » ; ce sort est donc extrêmement prisé. Évidement, ce dernier peut être contenu dans une [[Orbe]] afin que théoriquement tout le monde est une chance d’obtenir un familier. 
 
 ***Pour info :***
-Le principe de « Monster Bénédiction » est d’étendre une [[Benediction|Bénédiction]] sur un monstre afin de le lier au béni en question. Ce dernier pourra, un peu comme un [[Chef de Faction]], consulter les [[sort|Sorts]] et [[Competence|Compétences]] du monstre. En revanche, pas d’actualisation de [[Benediction|Bénédiction]] ou de [[Rank Up]] ici. La seule chose qu’apporte cette Bénédiction, autre le côté consultatif, est de donner au monstre la [[Competence|Compétence]] «Comprehension Universelle» (lui permettant ainsi de comprendre les mortels).
+Le principe de « Bénédiction de Monstre » est d’étendre une [[Benediction|Bénédiction]] sur un monstre afin de le lier au béni en question. Ce dernier pourra, un peu comme un [[Chef de Faction]], consulter les [[sort|Sorts]] et [[Competence|Compétences]] du monstre. En revanche, pas d’actualisation de [[Benediction|Bénédiction]] ou de [[Rank Up]] ici. La seule chose qu’apporte cette Bénédiction, autre le côté consultatif, est de donner au monstre la [[Competence|Compétence]] «Comprehension Universelle» (lui permettant ainsi de comprendre les mortels).
 
 Il y a cependant une condition obligatoire : on ne peut pas contraindre un monstre à devenir un familier. Seul un monstre acceptant de se lier à un béni peut recevoir cette Bénédiction.
 Un monstre béni se voit accorder le statut de familier lui permettant de passer les différents poste de contrôle.

@@ -1,5 +1,5 @@
-Après que [[La corruption de la milice Protectrice]] est été dévoilé, le [[Divins#Le Divin Protecteur|Divin Protecteur]] a décidé que [[La Milice Protectrice]] n’avait plus l’autorité d’intervenir auprès des [[Faction]]s.
-Il demanda à la seule des [[Divins]] qui n’ait pas de [[Faction]] : [[Divins#La Maîtresse de La Guilde|la Maîtresse de La Guilde]].
+Après que [[La corruption de la milice Protectrice]] est été dévoilée, le [[Divins#Le Divin Protecteur|Divin Protecteur]] a décidé que [[La Milice Protectrice]] n’avait plus l’autorité d’intervenir auprès des [[Faction]]s.
+Il demanda de l’aide à la seule des [[Divins]] qui n’ait pas de [[Faction]] : [[Divins#La Maîtresse de La Guilde|la Maîtresse de La Guilde]].
 Ensemble, ils imaginèrent une nouvelle forme d’autorité : à échelle humaine, indépendante, sans hiérarchie, directement supervisé par un des [[Divins]] : ***Les Aventuriers de La Guilde***.
 
 Un aventurier de [[La Guilde]] est directement béni par [[Divins#La Maîtresse de La Guilde|la Maîtresse de La Guilde]]. Contrairement à [[La Garde Personnelle d un Divin|La Garde Personnelle d’un Divin]], il n’a aucune obligation de rester proche du [[Divins|Divin]]. 

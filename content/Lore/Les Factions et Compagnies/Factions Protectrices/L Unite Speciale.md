@@ -6,7 +6,7 @@ aliases:
 Cette [[Faction]] représente l’élite des ***Factions Protectrices***. Seuls ceux qui ont fait leur preuve en tant que haut [[Rang]], dans [[La Milice Protectrice]] ou bien lors du [[Le test de la Guilde|test de la Guilde]] peuvent espérer intégrer cette unité.
 
 L’objectif de cette Unité Spéciale est de s’occuper des [[Faille]]s qui apparaissent dans le [[Cercle interieur|Cercle intérieur]]. Pour se faire, ses membres se doivent d’être le plus fort possible et de répondre aux signalements faits par [[Les Sentinelles]].
-Seul la [[Faction]] de l’Unité Spéciale est autorisés à accéder aux [[Faille]]s du [[Cercle interieur|Cercle intérieur]]. Des dérogations peuvent être faites pour des bénis mais l’Unité ne le fait jamais, considérant ça comme un aveu d’échec en plus de mettre en péril l’obtention indispensable pour eux d’une ressource: le [[Noyau]] de la [[Faille]]. 
+Seule la [[Faction]] de l’Unité Spéciale est autorisée à accéder aux [[Faille]]s du [[Cercle interieur|Cercle intérieur]]. Des dérogations peuvent être faites pour des bénis mais l’Unité ne le fait jamais, considérant ça comme un aveu d’échec en plus de mettre en péril l’obtention indispensable pour eux d’une ressource: le [[Noyau]] de la [[Faille]]. 
 Ce [[Noyau]] à lui seul permet d’obtenir énormément d’argent. Ajouté à ça les ressources récoltés dans la [[Faille]] ayant sa fermeture, l’argent que génère l’Unité Spéciale est comparable aux meilleures [[Expedition|Expéditions]] des meilleures [[Faction]]s du [[Divins#Le Divin Conquérant|Divin Conquérant]]. C’est grâce à cet argent généré que toutes les ***Factions Protectrices*** sont rémunérées.
 
 Chaque béni de cette unité a un rôle précis lors d’une attaque de [[Faille]] :

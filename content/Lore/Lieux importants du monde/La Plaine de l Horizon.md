@@ -10,4 +10,4 @@ La Plaine de l’Horizon est situé au Nord du [[Cercle exterieur|Cercle extéri
 - Accès direct aux [[Les Aiguilles du Ciel|Aiguilles du Ciel]]
 - Point d’observation clé sur [[Les Terres Fracturees|Les Terres Fracturées]] depuis [[La reconquete du Cercle Exterieur du nord]]
 
-De ce fait, la Plaine de l’Horizon est une zone tournante aussi bien commerciale que sociale. C’est ainsi que les [[Nain des Plaines|Nains des Plaines]] y sont grandement représentés excellant dans ces deux domaines.
+De ce fait, la Plaine de l’Horizon est une zone tournante commerciale. Les [[Nain des Plaines|Nains des Plaines]] y sont grandement représentés.

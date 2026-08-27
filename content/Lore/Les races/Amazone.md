@@ -22,6 +22,6 @@ Dédiant leur vie à se battre, elles sont reconnues comme étant un choix de pr
 # Les prédispositions de la Race
 ***Avantage de race***
 
-Leur particularité morphologique fait que leur Force et leur Dextérité sont liés, les deux statistiques évoluent ensemble.
+Leur particularité morphologique fait que leur Force et leur Dextérité sont liés, les deux caractéristiques évoluent ensemble.
 
 En revanche, la contrepartie à ça fait que leur efficacité magique est limitée et que les [[Sort]]s qu’elles peuvent développer sont relativement restreints. A ce jour, ils n’existent aucune Amazone ayant atteint le statut de [[la Tour des Mages|Mage]].

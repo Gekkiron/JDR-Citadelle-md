@@ -2,6 +2,7 @@ Ce nom désigne l’organisme qui gère : le recensement de tous les bénis de [
 Depuis [[La corruption de la milice Protectrice]], La Guilde est également responsable d’enquêter et d’appréhender les [[Faction]]s commettant des actes illégaux grâces aux [[Les Aventuriers de La Guilde|Aventuriers de La Guilde]].
 
 Elle est dirigée par une des [[Divins]] : [[Divins#La Maîtresse de La Guilde|la Maîtresse de La Guilde]]. 
+
 Hormis [[Les Aventuriers de La Guilde]], tous les travailleurs de La Guilde ont une [[Revocation|Révocation]] de [[Divins#La Maîtresse de La Guilde|la Maîtresse de La Guilde]] pour assurer une neutralité. De la même façon, un travailleur de La Guilde n’a pas le droit d’intégrer une [[Compagnie]].
 
 C’est officiellement le seul endroit où il est possible de lire le [[Matricule]] d’une [[Benediction|Bénédiction]] grâce à une [[Orbe]] d'identification qui est rigoureusement interdite à la vente. C’est grâce aux [[Matricule]]s que La Guilde identifie et répertorie les bénis. L’information n’est accessible qu’aux travailleurs de La Guilde.
@@ -9,9 +10,10 @@ C’est officiellement le seul endroit où il est possible de lire le [[Matricul
 Avec [[La Milice Protectrice]], La Guilde sont les seuls à pouvoir déclencher [[Les Alertes de la Citadelle]].
 
 La Guilde est le seul endroit où il existe des ***limiteurs de [[Benediction|Bénédiction]]*** : créé à l’époque par les 6 [[Divins]], ces barrières permettent de limiter l’accès à certaines zones suivant le [[Divins|Divin]] derrière la [[Benediction|Bénédiction]] du [[Mortel]] qui essaye de la passer.
-Ainsi deux limiteurs ont été dressé :
+Ainsi trois limiteurs ont été dressé :
 - L’administration de [[La Guilde]] -> limité à ceux possédant une [[Benediction|Bénédiction]] ou une [[Revocation|Révocation]] de [[Divins#La Maîtresse de La Guilde|la Maîtresse de La Guilde]]
 - L’entrée de [[La Breche|La Brèche]] -> limité à ceux possédant une [[Benediction|Bénédiction]] sauf celle de [[Divins#La Divine Pacifique|la Divine Pacifique]].
+- L’entrée de la salle du conseil -> exclusivement réservée aux [[Divins]] pour les [[Le conseil des Divins|conseils]]
 
 Situé au dessus de l’entrée de [[La Breche|La Brèche]], le bâtiment de La Guilde rassemblent tout un tas de services utiles et accessibles à tous, béni comme non béni.
  
@@ -45,8 +47,8 @@ En plus des ***Factions Conquérantes***, seuls [[Les Aventuriers de La Guilde]]
 Les modalités de la Quête sont gérées par La Guilde.
 
 ## Les Orbes de communication de la Brèche
-Non accessible en libre service aux [[Mortel]]s, les [[Orbe]]s de communication placer à La Guilde permettent de prendre contact avec les niveaux neutres. 
-Une [[Orbe]] a été installé à chaque  niveau neutre de [[La Breche|La Brèche]] que les bénis ont réussi à atteindre à savoir le 20e, le30e, le 40e et le 50e.
+Non accessible en libre service aux [[Mortel]]s, les [[Orbe]]s de communication placées à La Guilde permettent de prendre contact avec les niveaux neutres. 
+Une [[Orbe]] est installé à chaque niveau neutre de [[La Breche|La Brèche]] que les bénis ont réussi à atteindre à savoir le 20e, le30e, le 40e et le 50e.
 Seuls les travailleurs de La Guilde peuvent y accéder, notamment pour recueillir les rapports des différents niveaux neutres toutes les 2h. En revanche, ils peuvent accepter la requête d’un [[Mortel]] à passer par ces [[Orbe]]s pour transmettre un message à des bénis dans [[La Breche|La Brèche]].
 
 ## Les archives de La Guilde

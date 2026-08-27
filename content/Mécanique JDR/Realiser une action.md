@@ -14,7 +14,9 @@ Pour en savoir plus sur comment augmenter ses caractéristiques, obtenir des com
 La plupart des actions qu’un PJ veut réaliser se basera sur ses caractéristiques. Dans le lore, elles sont définis par des lettres allant de D à S et se renouvellent à chaque [[Rank Up]]. Comment retranscrire ça dans le gameplay ?
 
 Il y a plusieurs facteurs à prendre en compte. Pour que ce soit plus facile à comprendre, on va prendre un exemple dans tous le processus : 
+
 « J’ai un lourd obstacle devant moi que je dois soulever ». Le MJ définit alors quel valeur minimal en force je dois atteindre ; dans notre exemple ce sera **20**.
+
 Pour se faire, le PJ cumule un nombre de point qui se base sur plusieurs facteurs et : 
 - si les points sont biens supérieurs à la valeur à atteindre -> Le PJ réalise l’action
 - Si les points sont dans le même ordre de grandeur que la valeur à atteindre -> Le joueur fait un lancer de dé 20 : 
@@ -58,7 +60,7 @@ Pour rappel, une caractéristique va de la lettre D à S se qui se traduit par :
 - A -> +4 
 - S -> +5
 
-Pour notre exemple, cela signifie que pour 2 personnes de Rang 1, en prenant en compte tout les facteurs présentés jusqu’à présent, on peut constater une différence de force entre -4 et 5 : 
+Pour notre exemple, cela signifie que pour 2 personnes de Rang 1, si on prend en compte tout les facteurs présentés jusqu’à présent, on peut constater une différence de force entre -4 et 5 : 
 - -4 -> état de santé : aux portes de la mort + D <=> -5 + 1 = -4
 - 5 -> état de santé : en pleine forme + S <=> 0 + 5 = 5 
 
@@ -91,7 +93,7 @@ On va rester sur notre exemple du béni de rang 2 qui est à 27 point avec sa ma
 
 Lors de son [[Rank Up]], celui à 27 points à obtenu une [[Competence|Compétence]] active lui accordant un bonus de 3 points quand il vise une cible ; De se fait, il passe à 30 points. Maintenant, deux alliés lui en lancer le même sort qui consiste à augmenter sa force de 10 points pour le tour, ce qui veut dire que le béni passe de 30 points à 50 points.
 
-De son côté, le béni de rang 2 ayant 2 points doit toujours déplacer le rocher. Ce béni possède un sort de lévitation dont le principe est de pouvoir déplacer un objet en utilisant sa statistique d’efficacité magique au lieu de sa force et là, ça change tout : 
+De son côté, le béni de rang 2 ayant 2 points doit toujours déplacer le rocher. Ce béni possède un sort de lévitation dont le principe est de pouvoir déplacer un objet en utilisant sa caractéristique d’efficacité magique au lieu de sa force et là, ça change tout : 
 - -3 (état de santé) + 0 (passif naturel) + 8 (stat passive : 5 pour S rang 1 + 3 bonus rank up) + 5 (stat d’efficacité magique actuelle) = 10. Ajouté à ça un équipement lui donnant +6 d’efficacité magique -> 16 points. Enfin, il possède une compétence lui accordant un bonus sur ses caractéristiques s’il manie un [[Noyau]] comme catalyseur (le bonus dépend du [[Noyau]]) qui lui donne +5 -> 21 points.
 Pour une même action, ce béni est donc passé de 2 à 21 points grâce à son [[Sort]], lui donnant la possibilité de soulever l’obstacle.
 
@@ -110,7 +112,7 @@ Si un allié décide d’aider notre béni en soulevant l’obstacle pendant que
 -> être RP, ingénieux et/ou original sera quasiment toujours récompensé.
 
 Dans la même logique, si une action joue sur deux caractéristiques, un bonus pourra être accordé par le MJ
-Exemple : Si le béni à la masse prend beaucoup d’élan avant de foncer à pleine vitesse pour donner son coup, le MJ pourra lui accorder un bonus suivant la statistique d’agilité.
+Exemple : Si le béni à la masse prend beaucoup d’élan avant de foncer à pleine vitesse pour donner son coup, le MJ pourra lui accorder un bonus suivant sa caractéristique d’agilité.
 
 # Récapitulatif 
 

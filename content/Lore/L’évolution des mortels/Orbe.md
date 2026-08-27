@@ -5,7 +5,7 @@ Le [[Noyau]] doit être suffisamment dense pour que ce dernier puisse stocker un
 ***A noter*** : une Orbe peut stocker plusieurs fois le même [[Sort]] à condition que la taille et la densité du [[Noyau]] le permet.
 
 Malgré la grande taille des [[Noyau]]x des [[Monstre]]s dans les profondeurs de [[La Breche|La Brèche]], ces derniers ne sont pas suffisamment dense (et par extension stable) pour y stocker un sort via une Orbe. 
-Les seuls [[Noyau]]x répondant aux critères sont ceux des [[Noyau#Noyau de monstre gardien|Monstres Gardiens]] et des [[Noyau#Noyau de Faille|Failles]]. Même en cassant ces [[Noyau]]x, les fragments sont suffisant pour faire plusieurs Orbes de plus ou moins bonne qualité.
+Les seuls [[Noyau]]x répondant aux critères sont ceux des [[Noyau#Noyau de monstre gardien|Monstres Gardiens]] et des [[Noyau#Noyau de Faille|Failles]]. Même en cassant ces [[Noyau]]x, les fragments sont suffisant dense pour faire plusieurs Orbes de plus ou moins bonne qualité.
 
 Quand une Orbe n’a pas/plus de [[Sort]], il faut passer par des [[Faction]]s ou [[Mortel]]s spécialisés en enchantement pour la recharger.
 Une Orbe s’use ; de ce fait, quand elle est beaucoup utiliser, le [[Noyau]] fini par se dégrader jusqu’à ce détruire.

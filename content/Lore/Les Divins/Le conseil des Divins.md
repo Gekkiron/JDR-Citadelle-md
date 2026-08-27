@@ -1,0 +1,3 @@
+Le conseil des Divins a lieu à [[La Citadelle]] quand la [[Divins#La Divine Vagabonde (anciennement Divine du Sud)|Divine Vagabonde]] revient lors de [[Le cycle de la Divine Vagabonde|son cycle]]. 
+
+Tous les [[Divins]] se réunissent dans une pièce privée de [[La Guilde]] afin de discuter entre eux de l’évolution du monde et de la direction dans laquelle ils doivent diriger les [[Mortel]]s durant le prochain [[Le cycle de la Divine Vagabonde|cycle]].

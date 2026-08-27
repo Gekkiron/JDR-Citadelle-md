@@ -31,4 +31,4 @@ Une fois béni, ils sont la [[Races|race]] dont les individus montrent de grande
 # Magie des Esprits
 ***Avantage de race***
 
-Il s’agit d’une [[Magie]] qui ne peut être possédé que par un Elfe. Contrairement aux autres [[Magie]]s qui permettent de développer un maximum de 3 [[Sort]]s en lien avec elles, la **Magie des Esprits** permet à son utilisateur de développer un maximum de 3 [[Sort]]s provenant des 3 [[Magie]]s différentes. (1 sort par [[Magie]])
+Il s’agit d’une [[Magie]] qui ne peut être possédé que par un Elfe. Contrairement aux autres [[Magie]]s qui permettent de développer un maximum de 3 [[Sort]]s en lien avec elles, la **Magie des Esprits** permet à son utilisateur de développer 1 [[Sort]] provenant de 3 [[Magie]]s différentes. (1 sort par [[Magie]])

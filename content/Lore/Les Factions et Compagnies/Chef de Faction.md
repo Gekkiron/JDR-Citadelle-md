@@ -1,4 +1,6 @@
-Comme son nom l’indique, le béni ayant ce titre est un [[Mortel]] ayant la capacité de poser une [[Benediction|Bénédiction]] sur un autre [[Mortel]] et d’actualiser cette dernière. En contrepartie de cette capacité accordée par un des [[Divins]], le Chef de Faction n’a pas d’amélioration de caractéristique et ne peut ni développer de [[Competence|Compétence]] ni développer de [[Sort]].
+Le béni ayant ce titre est un [[Mortel]] a la capacité de poser une [[Benediction|Bénédiction]] sur un autre [[Mortel]] et d’actualiser cette dernière. En contrepartie de cette capacité accordée par un des [[Divins]], le Chef de Faction n’a pas d’amélioration de caractéristique et ne peut ni développer de [[Competence|Compétence]] ni développer de [[Sort]].
+
+Les [[Mortel]]s qu’il béni forme sa [[Faction]].
 
 En recevant son rôle de Chef de Faction (soit par un transfert de rôle, soit pour créer une nouvelle [[Faction]]), le béni perd les capacités reçues de sa [[Benediction|Bénédiction]] et subit une [[Regression|Régression]] tant qu’il est Chef de Faction.
 De plus, obtenir le rôle de Chef de Faction est le seul moyen de changer le [[Matricule]] de sa [[Benediction|Bénédiction]]. Si le béni perd ce rôle, il reprend son [[Matricule]] d’origine.

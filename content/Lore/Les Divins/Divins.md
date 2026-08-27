@@ -15,9 +15,10 @@ Depuis, que ce soit volontaire ou non, mettre en danger un Divin est condamné �
 Paradoxalement, les Divins sont faibles, équivalent à un [[Mortel]] non béni ou à un [[Chef de Faction]]. Mais contrairement à eux, ils ont une longévité qui n'a pas l'air d'avoir de limite.
 
 Naturellement, la présence d'un Divin empêche l'apparation des [[Faille]]s et stoppe le développement de celle déjà existante. La portée de cette capacité augmente proportionnellement au nombre de Divin à proximité.
+
 **A savoir**, [[La Breche|La Brèche]] est si grande que la présence de 3 Divins est nécessaire pour arrêter son expansion. Par sécurité, 4 Divins sont assignés à rester près de [[La Breche|La Brèche]], se qui se traduit par « ne doit pas quitter l'enceinte de [[La Citadelle]] »
 
-A L’époque où les 6 Divins étaient réunis dans à [[La Guilde]], ils réussirent à mettre en place des ***Limiteurs de [[Benediction|Bénédiction]]*** (pour plus de détails : [[La Guilde]])
+A L’époque où les 6 Divins étaient réunis à [[La Guilde]], ils réussirent à mettre en place des ***Limiteurs de [[Benediction|Bénédiction]]*** (pour plus de détails : [[La Guilde]])
 
 Chaque Divin de [[La Citadelle]] possède des [[Orbe]]s exclusives à eux leur permettant de communiquer au travers des ***Sirènes de la Citadelle***. 
 
@@ -39,6 +40,8 @@ Enfin, les Divins sont les seuls à pouvoir révoquer un mortel. La [[Revocation
 ## La personnalité et le rôle des Divins
 
 Au fil des siècles, chaque Divin s'est vu confier la supervision d'un aspect de la société et un titre en lien avec ce dernier.
+
+À chaque fin de [[Le cycle de la Divine Vagabonde|cycle de la Divine Vagabonde]], les Divins se réunissent lors d’un [[Le conseil des Divins|conseil des Divins]].
 
 ###  Le Divin Conquérant 
 ***couleur des [[Benediction|Bénédictions]] issues de son pouvoir => rouge | [[Matricule]] => α (alpha)***

@@ -1,4 +1,4 @@
-Une Guerre de [[Faction]] est un affrontement entre deux [[Faction]]s dans le [[Cercle interieur|Cercle intérieur]] sous la supervision directe des [[Divins]].
+Une Guerre de [[Faction]] est un affrontement entre deux [[Faction]]s dans le [[Cercle interieur|Cercle intérieur]] sous la supervision directe des [[Divins]]. Cet affrontement est propre au [[Cercle interieur|Cercle intérieur]]. Dans le [[Cercle exterieur|Cercle extérieur]], chaque [[Avant-Poste]] à sa méthode pour régler les affaires courantes.
 
 Malgré ce que le nom peut laisser entendre, cet affrontement peut tout à fait être cordiale. Elle peut être déclenché quand deux [[Faction]]s veulent quelque chose l’une de l’autre. Les [[Chef de Faction]] se mettent alors d’accord sur : 
 - La nature de l’affrontement
@@ -15,4 +15,4 @@ Les enjeux peuvent être de toute nature :
 - une, ou plusieurs, [[Revocation|Révocation]]
 - une mise à mort
 
-Bien sur, le [[Divins|Divin]] qui est en charge de superviser l’affrontement doit valider tous les enjeux et se doit également que ces derniers soient proportionnés au contexte où la Guerre de [[Faction]] a lieu.
+Bien sur, le [[Divins|Divin]] qui est en charge de superviser l’affrontement doit valider tous les enjeux et se doit également s’assurer que la Guerre de [[Faction]] n’est pas de répercussion sur d’autres personnes.

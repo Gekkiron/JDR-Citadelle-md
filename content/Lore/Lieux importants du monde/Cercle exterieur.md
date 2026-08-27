@@ -4,6 +4,7 @@ aliases:
   - Cercle extérieur
 ---
 Cette appellation désigne le territoire au delà du [[Cercle interieur|Cercle intérieur]].
+
 Les [[Mortel]]s y vivant sont connus pour être des bénis très indépendants et autonomes. Parmis les [[Divins]], seule la [[Divins#La Divine Vagabonde (anciennement Divine du Sud)|Divine Vagabonde]] est véritablement vénérée en vue de sa mission ; les autres sont connus sur le papier mais très peu de [[Mortel]] du Cercle extérieur ont eu l’occasion d’en apercevoir un autre.
 
 Il y a un [[Avant-Poste]] qui se distincte par sa taille et son regroupement de beaucoup de [[Mortel]] : [[Liberia|Libéria]].

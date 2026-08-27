@@ -9,7 +9,7 @@ Pour arrêter son expansion, 3 [[Divins]] sont obligés de rester à proximité 
 
 Deux [[Divins]] ont leur rôle qui concerne plus ou moins La Brèche : 
 - [[Divins#La Maîtresse de La Guilde|La Maîtresse de La Guilde]] -> qui, via [[La Guilde]], est rattachée à l’entrée de La Brèche afin de guider aux mieux les bénis dans son exploration ainsi que de les aider à leur développement via les différents services qu’elle propose.
-- [[Divins#Le Divin Conquérant|Le Divin Conquérant]] -> Il est dédié à l’exploration et la fermeture de La Brèche. Pour y arriver, il a décidé d’opter pour la stratégie du surnombre en créant le plus de [[Faction]] possible. 
+- [[Divins#Le Divin Conquérant|Le Divin Conquérant]] -> qui est dédié à l’exploration et la fermeture de La Brèche. Pour y arriver, il a décidé d’opter pour la stratégie du surnombre en créant le plus de [[Faction]] possible. 
 
 # Les spécificités de La Brèche
 
