@@ -1,7 +1,7 @@
 ---
-title: L’entre-aide du Nord
+title: L’entraide du Nord
 aliases:
-  - L’entre-aide du Nord
+  - L’entraide du Nord
 ---
 Créé à la suite de [[La mort du 6eme Divin]] et de [[La reconquete du Cercle Exterieur du nord|La reconquête du Cercle Extérieur du nord]], **L’entre-aide du Nord** est une [[Compagnie]] qui aide tous les [[Mortel]]s qui se sont vue contraindre d’immigrer entre le [[Cercle exterieur|Cercle extérieur]] du Nord à [[La Citadelle]].
 

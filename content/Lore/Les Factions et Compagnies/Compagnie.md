@@ -5,7 +5,7 @@ Une compagnie peut être de tout genre, avoir des objectifs plus ou moins tracé
 Parmi les plus reconnus : 
 - [[La compagnie des Therianthropes|La compagnie des Thérianthropes]]
 - [[Le reseau commerçant Orichalque|Le réseau commerçant Orichalque]]
-- [[L entre aide du Nord|L’entre-aide du Nord]]
+- [[L entraide du Nord|L’entraide du Nord]]
 
 Les seuls [[Mortel]]s n’ayant pas le droit d’intégrer une Compagnie sont les employés de [[La Guilde]], ce qui inclut [[Les Aventuriers de La Guilde]].
 En cas de conflit impliquant une Compagnie, c’est à la [[La Milice Protectrice]] d’intervenir.
