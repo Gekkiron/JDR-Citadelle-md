@@ -59,7 +59,7 @@ Plusieurs options sont disponibles pour se défendre :
 - **Encaisser** -> la défense se basera sur la Robustesse
 - **Utiliser la même caractéristique du type d’attaque** -> dextérité vs dextérité, force vs force ou efficacité magique vs efficacité magique si vous avez un sort adapté
 - **Utiliser une compétence ou un sort rapide adapté** -> en cas d’échec, la défense se basera sur la Robustesse avec un **désavantage**
-- **Esquiver** -> la défense se basera sur l’Agilité. Si l’esquive fonctionne, le déplacement du prochain tour est réalisé à ce moment là (donc limité à 1 fois par tour). En cas d’échec, la défense se basera sur la Robustesse avec un **désavantage**
+- **Esquiver** -> la défense se basera sur l’Agilité. Si l’esquive fonctionne, le déplacement du prochain tour est réalisé à ce moment là. En cas d’échec, la défense se basera sur la Robustesse avec un **désavantage**
 
 Évidemment, pour se défendre, il faut que votre PJ soit en condition pour le faire. Si vous ne pouvez pas le faire, la défense se basera sur la Robustesse avec un **désavantage**.
 
