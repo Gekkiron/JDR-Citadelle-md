@@ -9,24 +9,23 @@ Quelques plaies n’auront pas d’effet négatif en revanche le cumule fera que
 
 Voici comment ça marche : 
 
-A frappe B
+**A** frappe **B**
 
-Le type d’attaque est soit basé sur la force, sur la dextérité ou sur l’efficacité magique.
+Le type d’attaque est soit basé sur la **force**, sur la **dextérité** ou sur l’**efficacité magique**.
 
-Les circonstances feront qu’un bonus est accordé à A et/ou un malus à B d’où l’intérêt de bien décrire son action et pas juste « J’attaque B »
+On calcule les points de **A** et de **B** et là plusieurs situations :  (pour voir quelle stat est prise en compte, voir [[Se battre#Se défendre|Se défendre]])
+- Les points de **A** sont biens supérieurs aux points de **B** -> l’attaque de **A** est critique
+- Les points de **A** sont dans le même ordre de grandeur que les points de **B** -> **A** lance un dé 20 (si point de vue de **B**, inverser les résultats) : 
+	- Si le résultat est entre 1 et 5 -> La défense de **B** est critique
+	- Si le résultat est entre 6 et 10 -> La défense de **B** réussi
+	- Si le résultat est entre 11 et 15 -> L’attaque de **A** réussi
+	- Si le résultat est entre 16 et 20 -> L‘attaque de **A** est critique 
+- Les points de **A** sont bien inférieur aux points de **B** -> La Défense de **B** est critique. **A** peut tenter une action miraculeuse. Il lance un dé 20 :
+	- Si le résultat est entre 18 et 20 -> L’attaque de **A** réussi par miracle
+	- Sinon -> **A** subit l’équivalent d’un double échec critique
 
-Ensuite on calcule les points de A et de B et là plusieurs situations :  (pour voir quelle stat est prise en compte, voir [[Se battre#Se défendre|Se défendre]])
-- Les points de A sont biens supérieurs aux points de B -> l’attaque passe et suivant la description faite, le MJ déterminera l’étendu des dommages
-- Les points de A sont dans le même ordre de grandeur que les points de B -> A lance un dé 20 : 
-	- Si le résultat est entre 1 et 5 -> L’attaque échoue et suivant l’action de B en réponse, le MJ déterminera les conséquences de cette action
-	- Si le résultat est entre 6 et 10 -> L’attaque échoue mais le PJ n’est pas dans une position défavorable, il peut donc un minimum réagir à l’action de B
-	- Si le résultat est entre 11 et 15 -> L’attaque réussi
-	- Si le résultat est entre 16 et 20 -> L‘attaque réussi grandement
-- Les points de A sont bien inférieur aux points de B -> l’attaque échoue et suivant l’action de B en réponse, le MJ déterminera les conséquences de cette action. Le PJ peut tenter une action miraculeuse. Il lance un dé 20 :
-	- Si le résultat est entre 18 et 20 -> Le PJ réussi par miracle sans se blesser
-	- Sinon -> Le PJ subit de grave conséquence
-
-Suivant les bonus / malus déterminé plus tôt, le MJ pourra considéré par exemple un 15 comme la catégorie du dessus en cas de bonus, ou bien un 6 comme la catégorie du dessous si malus
+Les circonstances peuvent donner ou retirer plus ou moins des points et faire pencher la balance. 
+Dans le cas où les points les points de **A** et de **B** son dans le même ordre de grandeur, les circonstances feront qu’un **avantage** ou un **désavantage** est donnée soit à l’attaque de **A** ou La défense de **B**, d’où l’intérêt de bien décrire son action et pas juste « J’attaque **B** ».
 
 Comme vous pouvez le constater, l’appréciation de la situation par le MJ peut être déterminant.
 
@@ -53,16 +52,21 @@ Le type d’attaque est soit basé sur la force, sur la dextérité ou sur l’e
 Plusieurs options sont disponibles pour se défendre : 
 - **Encaisser** -> la défense se basera sur la Robustesse
 - **Utiliser la même caractéristique du type d’attaque** -> dextérité vs dextérité, force vs force ou efficacité magique vs efficacité magique si vous avez un sort adapté
-- **Utiliser une compétence ou un sort rapide adapté** -> en cas d’échec, la défense se basera sur la Robustesse avec un malus
-- **Esquiver** -> la défense se basera sur l’Agilité. Si l’esquive fonctionne, le déplacement du prochain tour est réaliser à ce moment là (donc limité à 1 fois par tour). En cas d’échec, la défense se basera sur la Robustesse avec un malus
+- **Utiliser une compétence ou un sort rapide adapté** -> en cas d’échec, la défense se basera sur la Robustesse avec un **désavantage**
+- **Esquiver** -> la défense se basera sur l’Agilité. Si l’esquive fonctionne, le déplacement du prochain tour est réalisé à ce moment là (donc limité à 1 fois par tour). En cas d’échec, la défense se basera sur la Robustesse avec un **désavantage**
 
-Évidemment, pour se défendre, il faut que votre PJ soit en condition pour le faire. Si vous ne pouvez pas le faire, suivant votre situation, vous recevrez des dommages en se basant sur votre Robustesse avec plus ou moins un malus.
+Évidemment, pour se défendre, il faut que votre PJ soit en condition pour le faire. Si vous ne pouvez pas le faire, la défense se basera sur la Robustesse avec un **désavantage**.
 
 ### Action de soutien
 
-Dans le cas où un allié doit se défendre, si vous êtes à proximité (qui ne nécessite pas un déplacement), vous avez la possibilité de vous interposer pour prendre l’offensive en lançant un dé 20 :
-- Si le résultat est entre 1 et 5 -> La défense échoue, l’allié se prend l’offensive et vous vous en prenez une autre sans possibilité de vous défendre ou d’être défendu.
--  Si le résultat est entre 6 et 10 -> La défense échoue, l’allié se prend l’offensive.
-- Si le résultat est entre 11 et 17 -> La défense réussi, vous échangez votre place avec l’allié -> on passe dans la phase ***Se défendre*** pour vous.
-- Si le résultat est entre 18 et 20 -> Vous réussissez, suivant votre action, à empêcher l’offensive ou à décaler l’allié attaqué.
+Si vous êtes à 1 case d’un allié attaqué, vous pouvez vous interposer pour prendre l’offensive en lançant un dé 20 :
+- Si le résultat est entre 1 et 5 -> La défense échoue, vous **subissez une attaque réussi** et l’allié entre dans la phase **Se défendre** 
+-  Si le résultat est entre 6 et 10 -> La défense échoue, l’allié entre dans la phase **Se défendre**
+- Si le résultat est entre 11 et 17 -> La défense réussi, vous échangez votre place avec l’allié -> vous entrez dans la phase ***Se défendre***.
+- Si le résultat est entre 18 et 20 -> Vous réussissez à empêcher l’offensive ou à décaler l’allié attaqué.
 
+### Avantage / Désavantage
+
+Que ce soit pour attaquer ou se défendre, dans le cas où un lancer de dé est nécessaire pour savoir si une action réussi ou échoue, à la demande de MJ, le PJ lance deux dés :
+- En cas d’avantage, on prend le dé avec le résultat le plus haut
+- En cas de désavantage, on prend le dé avec le résultat le plus bas
