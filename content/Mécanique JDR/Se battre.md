@@ -24,10 +24,16 @@ On calcule les points de **A** et de **B** et là plusieurs situations :  (pour 
 	- Si le résultat est entre 18 et 20 -> L’attaque de **A** réussi par miracle
 	- Sinon -> **A** subit l’équivalent d’un double échec critique
 
-Les circonstances peuvent donner ou retirer plus ou moins des points et faire pencher la balance. 
-Dans le cas où les points les points de **A** et de **B** son dans le même ordre de grandeur, les circonstances feront qu’un **avantage** ou un **désavantage** est donnée soit à l’attaque de **A** ou La défense de **B**, d’où l’intérêt de bien décrire son action et pas juste « J’attaque **B** ».
+Les circonstances peuvent donner ou retirer plus ou moins de points et faire pencher la balance. 
+Dans le cas où les points de **A** et de **B** sont dans le même ordre de grandeur, les circonstances feront qu’un **avantage** ou un **désavantage** est donné soit à l’attaque de **A** ou à la défense de **B**, d’où l’intérêt de bien décrire son action et pas juste « J’attaque **B** ».
 
 Comme vous pouvez le constater, l’appréciation de la situation par le MJ peut être déterminant.
+
+## Avantage / Désavantage
+
+Que ce soit pour attaquer ou se défendre, dans le cas où un lancer de dé est nécessaire pour savoir si une action réussi ou échoue, à la demande de MJ, le PJ lance deux dés :
+- En cas d’avantage, on prend le dé avec le résultat le plus haut
+- En cas de désavantage, on prend le dé avec le résultat le plus bas
 
 # Les tours de jeu
 
@@ -64,9 +70,3 @@ Si vous êtes à 1 case d’un allié attaqué, vous pouvez vous interposer pour
 -  Si le résultat est entre 6 et 10 -> La défense échoue, l’allié entre dans la phase **Se défendre**
 - Si le résultat est entre 11 et 17 -> La défense réussi, vous échangez votre place avec l’allié -> vous entrez dans la phase ***Se défendre***.
 - Si le résultat est entre 18 et 20 -> Vous réussissez à empêcher l’offensive ou à décaler l’allié attaqué.
-
-### Avantage / Désavantage
-
-Que ce soit pour attaquer ou se défendre, dans le cas où un lancer de dé est nécessaire pour savoir si une action réussi ou échoue, à la demande de MJ, le PJ lance deux dés :
-- En cas d’avantage, on prend le dé avec le résultat le plus haut
-- En cas de désavantage, on prend le dé avec le résultat le plus bas
